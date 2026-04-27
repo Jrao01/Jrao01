@@ -9,6 +9,7 @@
 <br/><br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jrao01&theme=whatsapp-dark2&border_radius=4.7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=Jrao01&label=Profile+Views&color=2ecc71&style=for-the-badge)
 
 <br/>
@@ -100,15 +101,6 @@ Colaborador en el desarrollo del **Sistema de Gestión Universitaria** para la U
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-</div>
-
-<br/>
-
-## Estadísticas Generales
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jrao01&show_icons=true&theme=whatsapp-dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrao01&layout=compact&theme=whatsapp-dark&hide_border=true" />
 </div>
 
 <br/>
