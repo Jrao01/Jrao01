@@ -14,7 +14,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_DE_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/julian-rafael-amer-ojeda-772788367)
 [![Email 2](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[julianrafael1604@gmail.com])
 [![whatsapp](https://img.shields.io/badge/WhatsApp-Contact_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/584244588840)
 
@@ -54,6 +54,7 @@ Me especializo en crear aplicaciones que no dependen de la nube para ser intelig
 
 - **Solo-Scrum Adaptability:** Flujos de trabajo ágiles de alta velocidad para la entrega incremental de productos complejos.
 - **BI & Reporting Automation:** Transformación automática de data cruda en insights accionables mediante motores de análisis inteligente.
+- **Repository Architecture:** Implementación de patrones de diseño para el desacoplamiento de la lógica de negocio y asegurar la escalabilidad de los proyectos.
 - **CI/CD & Automation:** Pipelines con **GitHub Actions** para integración constante y despliegues continuos automatizados.
 
 </td>
