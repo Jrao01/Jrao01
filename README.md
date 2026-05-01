@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jrao01&theme=whatsapp-dark2&border_radius=4.7&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jrao01&theme=whatsapp-dark2&border_radius=4.7&date_format=j%20M%5B%20Y%5D&cache_buster=1)](https://git.io/streak-stats)
 <br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=Jrao01&label=Profile+Views&color=2ecc71&style=for-the-badge)
 
