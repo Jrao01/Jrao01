@@ -3,7 +3,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=Local+AI+Implementation;Full+Stack+Development;Business+Intelligence+with+Globy;Crypto+Analysis+with+Valery" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2ecc71&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=45&lines=Building+Habitas+-+Rental+Platform;Full+Stack+Development;Crypto+Analysis+with+Valery;Learning+Rust+%26+Systems+Programming" alt="Typing SVG" />
   </a>
 
 <br/><br/>
@@ -25,17 +25,17 @@
 ## Sobre mí
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Local_AI_&_BI-2ecc71?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Stack-TypeScript_JavaScript-3776AB?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Thesis_Developer-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Web_Platforms_%26_Crypto-2ecc71?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Stack-TypeScript_%2B_Rust-3776AB?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Status-Building_Habitas_%26_Valery-blue?style=flat-square"/>
   <img src="https://img.shields.io/github/last-commit/Jrao01/Jrao01?style=flat-square&color=2ecc71&label=Profile%20Updated"/>
 </div>
 
 <br/>
 
-> _Desarrollador enfocado en la implementación de flujos de trabajo limpios, eficientes, automatizados y escalables. Actualmente finalizando mi proyecto de grado._
+> _Desarrollador enfocado en la implementación de flujos de trabajo limpios, eficientes, automatizados y escalables. Actualmente construyendo **[habitasweb.me](https://habitasweb.me/)** y **[valery.markets](https://valery.markets/)**._
 
-Me especializo en crear aplicaciones que no dependen de la nube para ser inteligentes. Mi trabajo actual se centra en **Globy**, un motor de BI (Bussines Intelligence) que utiliza agentes de IA para procesar data sin interfaces conversacionales innecesarias, priorizando la eficiencia y la seguridad.
+Mi trabajo actual se centra en **[Habitas](https://habitasweb.me/)**, una plataforma web para el alquiler de viviendas —enfocada en San Juan de los Morros— que conecta a propietarios con inquilinos y estudiantes de forma segura, y en **[valery.markets](https://valery.markets/)**, un sistema de análisis avanzado del entorno cripto para trading y scalping. Desarrollo aplicaciones escalables y multi-plataforma, y actualmente me estoy formando en el ecosistema **Rust**.
 
 <table>
   <tr>
@@ -43,17 +43,16 @@ Me especializo en crear aplicaciones que no dependen de la nube para ser intelig
 
 ### Enfoque actual
 
-- **IA Local**: Fine-tuning de modelos (Qwen/Ollama) para despliegues sin internet.
-- **Business Intelligence**: Motores de análisis de datos para reportes automáticos.
+- **Rust & Systems Programming**: Aprendizaje continuo de uno de los lenguajes más destacados de la actualidad: ownership, concurrencia con Tokio y tooling con Cargo.
 - **Crypto Analysis**: Análisis avanzado del entorno cripto para trading y scalping.
-- **Sistemas de gestion escalables**: Aplicaciones web para la gestión de empresas.
+- **Sistemas de gestión escalables**: Aplicaciones web y mobile multi-plataforma (PWA).
 </td>
 <td width="50%">
 
 ### Principios de ingeniería
 
 - **Solo-Scrum Adaptability:** Flujos de trabajo ágiles de alta velocidad para la entrega incremental de productos complejos.
-- **BI & Reporting Automation:** Transformación automática de data cruda en insights accionables mediante motores de análisis inteligente.
+
 - **Repository Architecture:** Implementación de patrones de diseño para el desacoplamiento de la lógica de negocio y asegurar la escalabilidad de los proyectos.
 - **CI/CD & Automation:** Pipelines con **GitHub Actions** para integración constante y despliegues continuos automatizados.
 
@@ -65,17 +64,13 @@ Me especializo en crear aplicaciones que no dependen de la nube para ser intelig
 
 ## Proyectos Destacados
 
-### [Globy - BI Engine](https://github.com/Jrao01)
+### [Habitas - habitasweb.me](https://habitasweb.me/)
 
-Plataforma de inteligencia de negocios que utiliza un **agente de IA como motor de procesamiento**. Diseñado para transformar datos crudos en reportes estratégicos sin intervención humana constante.
+Plataforma web para el **alquiler de viviendas** —especialmente enfocada en San Juan de los Morros— que conecta a propietarios con inquilinos y estudiantes. Funciona como un directorio confiable de alquileres: búsqueda de propiedades, publicación de inmuebles
 
-### [valery.markets](https://github.com/Jrao01)
+### [valery.markets](https://valery.markets/)
 
-Sistema para el **análisis del entorno cripto** enfocado en trading y scalping. Procesa datos del mercado en tiempo real para identificar oportunidades estratégicas.
-
-### [Sgu - Sistema de Gestión Universitaria](https://github.com/Jrao01)
-
-Colaborador en el desarrollo del **Sistema de Gestión Universitaria** para la Universidad Nacional Experimental de los Llanos Centrales Rómulo Gallegos (UNERG).
+Sistema para el **análisis del entorno cripto** enfocado en trading y scalping. Procesa datos del mercado en tiempo real para identificar oportunidades estratégicas. Todo automatizado con los mejores motores del momento y tu exchange de confianza.
 
 <br/>
 
@@ -88,6 +83,9 @@ Colaborador en el desarrollo del **Sistema de Gestión Universitaria** para la U
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![puppeteer-extra](https://img.shields.io/badge/puppeteer-01D8A2?style=for-the-badge&logo=puppeteer&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Cargo](https://img.shields.io/badge/Cargo-DEA584?style=for-the-badge)
+![Tokio](https://img.shields.io/badge/Tokio-5A0FC8?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
